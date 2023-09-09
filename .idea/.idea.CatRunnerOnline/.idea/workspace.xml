@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="dc35724e-64c8-4582-8e16-56e1e7f5a53e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CatRunnerOnline/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CatRunnerOnline/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CatRunnerOnline/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CatRunnerOnline/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code Base/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code Base/PlayerController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1693671504518</updated>
       <workItem from="1693671511911" duration="101000" />
-      <workItem from="1694272959233" duration="4406000" />
+      <workItem from="1694272959233" duration="4543000" />
     </task>
     <servers />
   </component>
