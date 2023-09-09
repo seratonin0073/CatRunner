@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc35724e-64c8-4582-8e16-56e1e7f5a53e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Image/Apple/Apple_big.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Image/Apple/Apple_big.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Image/Ground_Obstacle/Ground _ Obstacle.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Image/Ground_Obstacle/Ground _ Obstacle.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Image/Ground_Obstacle/Ground_center_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Image/Ground_Obstacle/Ground_center_1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Image/Player/CatHead.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Image/Player/CatHead.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CatRunnerOnline/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CatRunnerOnline/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CatRunnerOnline/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CatRunnerOnline/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code Base/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code Base/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,12 +15,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Code Base/Move.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code Base/PlayerController.cs" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="2UqeNZ3tYb6DkaaHgmwhlba61jQ" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -56,6 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1693671504518</updated>
       <workItem from="1693671511911" duration="101000" />
+      <workItem from="1694272959233" duration="4406000" />
     </task>
     <servers />
   </component>
