@@ -6,7 +6,11 @@
     <e p="C:\Users\mizko\CatRunnerOnline" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Animation" t="Include" />
         <e p="Code Base" t="Include">
+          <e p="CoinMove.cs" t="Include" />
+          <e p="CoinSpawner.cs" t="Include" />
+          <e p="GroundMove.cs" t="Include" />
           <e p="PlayerController.cs" t="Include" />
         </e>
         <e p="Image" t="Include">
@@ -16,6 +20,7 @@
           <e p="Other" t="Include" />
           <e p="Player" t="Include" />
         </e>
+        <e p="Prefab" t="Include" />
         <e p="Scenes" t="Include" />
       </e>
       <e p="CatRunnerOnline.sln" t="IncludeFlat" />
