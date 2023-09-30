@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4694078045334420026}
   - component: {fileID: 4694078045334420029}
   - component: {fileID: 4694078045334420028}
+  - component: {fileID: -4796962489947420320}
   m_Layer: 0
   m_Name: BigSpike
   m_TagString: Spike
@@ -95,13 +96,13 @@ PolygonCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
+    pivot: {x: 0.5, y: 0}
     oldSize: {x: 1, y: 1}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
@@ -116,3 +117,15 @@ PolygonCollider2D:
       - {x: 0.5, y: -0.5}
       - {x: 0.44185066, y: -0.343513}
       - {x: 0.02784729, y: 0.48837006}
+--- !u!114 &-4796962489947420320
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4694078045334420031}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b381756b01a42a74fbd1196529ab903b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

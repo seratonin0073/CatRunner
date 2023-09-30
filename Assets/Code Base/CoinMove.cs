@@ -9,6 +9,7 @@ public class CoinMove : MonoBehaviour
     void Start()
     {
         speed = GameObject.FindObjectOfType<GroundMove>().LevelSpeed;
+        Destroy(gameObject, 10f);
     }
     
     void FixedUpdate()
