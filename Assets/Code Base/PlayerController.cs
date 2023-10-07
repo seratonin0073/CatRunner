@@ -1,4 +1,4 @@
-using System;
+using TMPro;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
@@ -7,6 +7,8 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D rb2d;//змінна що зберігає фізику об'єкта
     [SerializeField] private float jumpStrength = 3f; //поле яке зберігає швидкість руху
     private int jewelCounter = 0;//лічильник коштовностей
+
+    public TMP_Text CoinText;
     void Start()
     {
         rb2d = GetComponent<Rigidbody2D>();//отримуємо фізику об'кта
@@ -35,8 +37,8 @@ public class PlayerController : MonoBehaviour
        if (other.gameObject.CompareTag("Coin"))
        {
            jewelCounter++;
-           Debug.Log(jewelCounter);
            Destroy(other.gameObject);
+           CoinText.text = jewelCounter.ToString();
        }
        else if(other.gameObject.CompareTag("Spike")) Application.LoadLevel(Application.loadedLevel);
    }

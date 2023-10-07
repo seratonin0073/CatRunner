@@ -21,14 +21,9 @@
   <component name="ChangeListManager">
     <list default="true" id="dc35724e-64c8-4582-8e16-56e1e7f5a53e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CatRunnerOnline/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CatRunnerOnline/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CatRunnerOnline/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CatRunnerOnline/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CatRunnerOnline/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CatRunnerOnline/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code Base/CoinMove.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code Base/CoinMove.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Code Base/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code Base/PlayerController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Image/Ground_Obstacle/Ground _ Obstacle.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Image/Ground_Obstacle/Ground _ Obstacle.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/BigSpike.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/BigSpike.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/Coin.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/Coin.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefab/SmallSpike.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefab/SmallSpike.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +96,7 @@
       <workItem from="1694877195792" duration="4339000" />
       <workItem from="1695481966494" duration="4687000" />
       <workItem from="1696087459614" duration="2814000" />
+      <workItem from="1696692682748" duration="1536000" />
     </task>
     <servers />
   </component>
