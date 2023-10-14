@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -16,4 +17,6 @@ public class CoinMove : MonoBehaviour
     {
         transform.Translate(Vector2.left * speed * Time.fixedDeltaTime);
     }
+
+    
 }
